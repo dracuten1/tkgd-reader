@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tkgd-reader/static/css/main.9672bcb5.chunk.css",
-    "main.js": "/tkgd-reader/static/js/main.ed7d1776.chunk.js",
-    "main.js.map": "/tkgd-reader/static/js/main.ed7d1776.chunk.js.map",
+    "main.js": "/tkgd-reader/static/js/main.1ee7d98c.chunk.js",
+    "main.js.map": "/tkgd-reader/static/js/main.1ee7d98c.chunk.js.map",
     "runtime-main.js": "/tkgd-reader/static/js/runtime-main.2db1f9c4.js",
     "runtime-main.js.map": "/tkgd-reader/static/js/runtime-main.2db1f9c4.js.map",
     "static/css/2.c7b90ac4.chunk.css": "/tkgd-reader/static/css/2.c7b90ac4.chunk.css",
     "static/js/2.c42e9a07.chunk.js": "/tkgd-reader/static/js/2.c42e9a07.chunk.js",
     "static/js/2.c42e9a07.chunk.js.map": "/tkgd-reader/static/js/2.c42e9a07.chunk.js.map",
     "index.html": "/tkgd-reader/index.html",
-    "precache-manifest.9407beb2ec79452d33ac76d05868a279.js": "/tkgd-reader/precache-manifest.9407beb2ec79452d33ac76d05868a279.js",
+    "precache-manifest.5e5d32509496946471407b7124f35135.js": "/tkgd-reader/precache-manifest.5e5d32509496946471407b7124f35135.js",
     "service-worker.js": "/tkgd-reader/service-worker.js",
     "static/css/2.c7b90ac4.chunk.css.map": "/tkgd-reader/static/css/2.c7b90ac4.chunk.css.map",
     "static/css/main.9672bcb5.chunk.css.map": "/tkgd-reader/static/css/main.9672bcb5.chunk.css.map",
@@ -34,6 +34,6 @@
     "static/css/2.c7b90ac4.chunk.css",
     "static/js/2.c42e9a07.chunk.js",
     "static/css/main.9672bcb5.chunk.css",
-    "static/js/main.ed7d1776.chunk.js"
+    "static/js/main.1ee7d98c.chunk.js"
   ]
 }
