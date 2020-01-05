@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/tkgd-reader/static/css/main.0dcddb67.chunk.css",
+    "main.js": "/tkgd-reader/static/js/main.4806de74.chunk.js",
+    "main.js.map": "/tkgd-reader/static/js/main.4806de74.chunk.js.map",
+    "runtime-main.js": "/tkgd-reader/static/js/runtime-main.2db1f9c4.js",
+    "runtime-main.js.map": "/tkgd-reader/static/js/runtime-main.2db1f9c4.js.map",
+    "static/css/2.c7b90ac4.chunk.css": "/tkgd-reader/static/css/2.c7b90ac4.chunk.css",
+    "static/js/2.dfe2f2e7.chunk.js": "/tkgd-reader/static/js/2.dfe2f2e7.chunk.js",
+    "static/js/2.dfe2f2e7.chunk.js.map": "/tkgd-reader/static/js/2.dfe2f2e7.chunk.js.map",
+    "index.html": "/tkgd-reader/index.html",
+    "precache-manifest.ed7cd03045d320163c32c2f21900f43c.js": "/tkgd-reader/precache-manifest.ed7cd03045d320163c32c2f21900f43c.js",
+    "service-worker.js": "/tkgd-reader/service-worker.js",
+    "static/css/2.c7b90ac4.chunk.css.map": "/tkgd-reader/static/css/2.c7b90ac4.chunk.css.map",
+    "static/css/main.0dcddb67.chunk.css.map": "/tkgd-reader/static/css/main.0dcddb67.chunk.css.map",
+    "static/js/2.dfe2f2e7.chunk.js.LICENSE": "/tkgd-reader/static/js/2.dfe2f2e7.chunk.js.LICENSE",
+    "static/media/ads.png": "/tkgd-reader/static/media/ads.385980ed.png",
+    "static/media/bycate01.png": "/tkgd-reader/static/media/bycate01.70575d47.png",
+    "static/media/bycate02.png": "/tkgd-reader/static/media/bycate02.8d617bd9.png",
+    "static/media/card01.png": "/tkgd-reader/static/media/card01.628a0cd3.png",
+    "static/media/card02.png": "/tkgd-reader/static/media/card02.88c35625.png",
+    "static/media/card03.png": "/tkgd-reader/static/media/card03.5d745b64.png",
+    "static/media/detail01.png": "/tkgd-reader/static/media/detail01.2b6a898d.png",
+    "static/media/detail02.png": "/tkgd-reader/static/media/detail02.f956ab98.png",
+    "static/media/filer01.png": "/tkgd-reader/static/media/filer01.4396773e.png",
+    "static/media/gift01.png": "/tkgd-reader/static/media/gift01.60500bb9.png",
+    "static/media/gift02.png": "/tkgd-reader/static/media/gift02.253eaa76.png",
+    "static/media/logo.svg": "/tkgd-reader/static/media/logo.ee7cd8ed.svg",
+    "static/media/related01.png": "/tkgd-reader/static/media/related01.f80fda24.png",
+    "static/media/rightside01.png": "/tkgd-reader/static/media/rightside01.f4091cc2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2db1f9c4.js",
+    "static/css/2.c7b90ac4.chunk.css",
+    "static/js/2.dfe2f2e7.chunk.js",
+    "static/css/main.0dcddb67.chunk.css",
+    "static/js/main.4806de74.chunk.js"
+  ]
+}
