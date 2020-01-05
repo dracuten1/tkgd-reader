@@ -1,0 +1,7 @@
+.tag:hover {
+  color: royalblue;
+  font-weight: 500;
+  background-color: rgb(144, 167, 238);
+  border-radius: 2px;
+  color: aliceblue;
+}

@@ -1,0 +1,20 @@
+.info-post-out {
+  display: flex;
+  flex-direction: column;
+}
+.outstd-cate {
+  margin-right: 0;
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  right: 0;
+}
+
+.outstd-cate__item {
+  color: black;
+  font-size: 18px;
+}
+#stt {
+  color: cornflowerblue;
+}

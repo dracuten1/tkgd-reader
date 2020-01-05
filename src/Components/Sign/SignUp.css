@@ -1,0 +1,30 @@
+.login-form {
+  max-width: 300px;
+}
+.login-form-forgot {
+  float: right;
+}
+.form-button {
+  width: 100%;
+}
+
+.face-btn {
+  background-color: #475993;
+  color: white;
+  padding: 0 auto;
+}
+.face-btn:hover {
+  text-decoration: none;
+  background-color: #475993;
+  color: white;
+}
+.face-btn:active {
+  text-decoration: none;
+  background-color: #475993;
+  color: white;
+}
+.gg-btn {
+  background-color: white;
+  color: black;
+  font-weight: 500;
+}

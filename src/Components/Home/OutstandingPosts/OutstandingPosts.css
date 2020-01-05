@@ -1,0 +1,18 @@
+.post {
+  position: relative;
+}
+.info-post {
+  background-color: rgba(37, 35, 37, 0.45);
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.title-post {
+  color: white;
+}
